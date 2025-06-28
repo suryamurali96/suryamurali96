@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm M.SURYA</h1>
-<h3 align="center">A passionate AWS DEVOPS ENGINEER from India</h3>
+<h1 align="center">Hi 👋, I'm M.Surya</h1>
+<h3 align="center">A passionate Aws Devops Engineer  from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
